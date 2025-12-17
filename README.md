@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Chatrat</h1>
+<h3 align="center">Computer Engineering Student | Embedded | AI | Web</h3>
 
-<!--
-**chatrathw-hash/chatrathw-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Computer Engineering Student (RMUTL Chiang Mai)
+- 💻 Interested in Embedded Systems, AI, Web Development
+- 🔧 Experience with ESP32, Arduino, PHP, MySQL
+- 🚀 Looking for Internship Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+- Programming: C / C++ / Python / PHP
+- Embedded: Arduino, ESP32
+- Web: HTML, CSS, JavaScript, MySQL
+- Tools: Git, VS Code, CapCut, Photoshop
+
+---
+
+### 📂 Featured Projects
+- 🔐 Smart Locker System (ESP32 + Web)
+- 🌱 Automatic Hydroponic Greenhouse
+- 📡 MQTT IoT Dashboard
+
+---
+
+### 📫 Contact
+- Email: Storkrath@email.com
+- GitHub: https://github.com/CiClick
